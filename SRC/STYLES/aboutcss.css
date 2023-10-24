@@ -1,0 +1,88 @@
+.content1{
+	
+	width:1200px;
+	height:auto;
+	margin:auto;
+	color:white;
+	position:relative;
+}
+.content1 .para{
+	
+	padding-top:20px;
+	padding-left:20px;
+	padding-bottom:20px;
+	font-family:Arial;
+	letter-spacing:1.2px;
+	line-height:30px;
+}
+.content1 h1{
+	 font-family:'times new roman';
+	 font-size:50px;
+	 padding-left:20px;
+	 letter-spacing:2px;
+	
+}
+.content1 h2{
+	
+    padding-top:70px;
+    padding-left:20px;
+    color:white;
+	
+}
+
+.p1{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.row{
+  	padding-top:5px;
+	padding-left:70px;
+	padding-bottom:2px;
+}
+
+
+.column {
+  float:left;
+  width: 20%;
+  background-color: white;
+  margin-top:10px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  margin-left: 80px;
+  padding: 0 2px;
+  margin-left: 50px;
+  margin-right: 50px;
+  
+}
+
+.card {
+  
+  text-align : center;
+}
+
+
+.container {
+  padding: 0px;
+}
+
+
+
+.title {
+  color: blue ;
+}
+
+.button {
+  
+  background-color: ash;
+  display: inline-block;
+  padding: 10px;
+  margin-top:10px;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  border:none;
+}
+
+.button:hover {
+  background-color: orange;
+}
